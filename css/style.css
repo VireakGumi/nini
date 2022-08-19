@@ -172,7 +172,7 @@ nav a{
 }
 .pic{
     height: 500px;
-    background: url(../img/fruit-4415864_1920.jpg) center  no-repeat  ;
+    background: url(../img/11-18-ft-banana_03_cmyk_v2.webp)   no-repeat  ;
     background-size: cover;
     display: flex;
     flex-direction: column;
@@ -278,7 +278,7 @@ footer{
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-left: 150px;
+    margin-left: 100px;
 }
 .footer-right span{
     margin-top: 20px;
